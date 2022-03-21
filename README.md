@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=yugahee%20&fontSize=90&fontColor=ffffff)
 
+
 ## Skill
 
 [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/yugahee/TODO-List)
@@ -14,5 +15,7 @@
 
 
 ## Git Stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugahee&show_icons=true&theme=buefy)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyugahee&count_bg=%23D8BAFF&title_bg=%234C0EA0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
